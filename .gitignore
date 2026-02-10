@@ -1,6 +1,7 @@
 # Build and Release Folders
 debug/
 release/
+etc/
 /etc/
 
 # Other files and folders
